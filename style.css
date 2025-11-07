@@ -1,0 +1,33 @@
+ody {
+    background-color: oklch(84.385% 0.11637 92.843);
+    color: white;
+    font-family: "Momo Signature", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: hsl(229, 70%, 59%);
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 80%;
+}
+
+img {
+    max-width: 80%;
+}
